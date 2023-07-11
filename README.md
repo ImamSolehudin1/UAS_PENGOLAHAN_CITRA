@@ -16,7 +16,7 @@
 ![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/2.png)
 
 
-3. Program menampilkan histogram pada canvas gui. 
+3. Program menampilkan MSE PSNR dan histogram pada canvas gui. 
 
 ![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/3.png)
 
