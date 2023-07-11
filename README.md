@@ -4,7 +4,7 @@
 - Nim : 312110290
 - Kelas  : TI.21.C.1
 
-# Membuat Aplikasi Perbaikan Citra menggunakan metode Fedian Filter dan menghitung nilai MSE dan PSNR
+# Membuat Aplikasi Perbaikan Citra menggunakan metode Median Filter dan menghitung nilai MSE dan PSNR
 
 Median filter adalah salah satu teknik pengolahan citra yang digunakan untuk mengurangi noise pada citra digital. Tujuan utama median filter adalah untuk menghilangkan atau mengurangi efek noise seperti derau salt-and-pepper (titik-titik hitam atau putih yang tersebar acak pada citra).
 
