@@ -25,34 +25,34 @@
 ![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/4.png)
 5. d
 
-![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/1.png)
+![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/.
+png)
 6. d
 
-![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/1.png)
+![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/.png)
 7. f
 
-![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/1.png)
+![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/.png)
 8. f
-
-![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/1.png)
+![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/.png)
 9. f
 
-![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/1.png)
+![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/.png)
 10. d
 
-![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/1.png)
+![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/.png)
 11. d
 
-![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/1.png)
+![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/.png)
 12. d
 
-![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/1.png)
+![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/.png)
 13. d
 
-![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/1.png)
+![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/.png)
 14. d
 
-![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/1.png)
+![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/.png)
 15. 
 
-![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/1.png)
+![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/.png)
