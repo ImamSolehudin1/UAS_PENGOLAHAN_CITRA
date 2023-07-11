@@ -53,3 +53,4 @@ Berikut program yang telah saya buat.
 
 9. Nilai MSE=51.78 cukup tinggi, semakin besar perbedaan antara citra asli dan citra yang dihasilkan. Nilai PSNR sebesar 30.99 dB menunjukkan bahwa citra yang dihasilkan memiliki tingkat keakuratan yang cukup tinggi dalam merepresentasikan citra asli.
 
+![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/9.png)
