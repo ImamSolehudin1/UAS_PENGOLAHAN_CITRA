@@ -6,6 +6,11 @@
 
 # Membuat Aplikasi Perbaikan Citra menggunakan metode Fedian Filter dan menghitung nilai MSE dan PSNR
 
+Median filter adalah salah satu teknik pengolahan citra yang digunakan untuk mengurangi noise pada citra digital. Tujuan utama median filter adalah untuk menghilangkan atau mengurangi efek noise seperti derau salt-and-pepper (titik-titik hitam atau putih yang tersebar acak pada citra).
+
+Berikut program yang telah saya buat.
+
+
 1. Import library python yang kita butuhkan. disini saya inmport library tkinter, numpy dan matplotlib. Setelah itu kita buat definisi untuk untuk menampilkan teks, menampilkan median filter, menampilkan histogram, menghitung nilai mse psnr. Berikut programnnya :
 
 ![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/1.png)
@@ -23,36 +28,28 @@
 4. Membuat jendela GUI agar program yang didefiniskan sebelumnya dapat ditampilkan di jendela python GUI.
 
 ![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/4.png)
-5. d
 
-![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/.
-png)
-6. d
 
-![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/.png)
-7. f
+5. Tampilan sebelum memilih gambar untuk dieksekusi.
 
-![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/.png)
-8. f
-![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/.png)
-9. f
+![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/5.png)
 
-![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/.png)
-10. d
 
-![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/.png)
-11. d
+6. Tampilan ketika sudah memilih gambar yang akan dieksekusi menggunakan metode median filter.
 
-![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/.png)
-12. d
 
-![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/.png)
-13. d
+![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/6.png)
 
-![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/.png)
-14. d
 
-![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/.png)
-15. 
+7. Metode median filter digunakan untuk mengurangi noise pada citra digital. Pada gambar berikut bintik yang ada pada citra asli menjadi blur ketika diubah menggunakan metode median filter.
 
-![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/.png)
+![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/7.png)
+
+
+8. Dari hasil histogram tersebut, gambar asli dan hasil filter memiliki histogram yang terpusat ke tengah yang berarti menunjukan intensitas yang seimbang.
+
+![gambar](Perbaikan_Citra_Median_Filter(MSE&PSNR)/8.png)
+
+
+9. Nilai MSE=51.78 cukup tinggi, semakin besar perbedaan antara citra asli dan citra yang dihasilkan. Nilai PSNR sebesar 30.99 dB menunjukkan bahwa citra yang dihasilkan memiliki tingkat keakuratan yang cukup tinggi dalam merepresentasikan citra asli.
+
